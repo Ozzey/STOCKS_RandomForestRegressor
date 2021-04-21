@@ -5,7 +5,7 @@ It is a python based program which analyzes the data of last n days to predict t
 
 ##Overview
 >>Sklearn's RandomForestRegressor is used to program the basic model of the ML program.
->>There are two data set  X(independent) & y(dependent) dataset
+>>There are two data set  X(independent) & y(dependent) dataset.
 >>Test_train_split is used to split the database into the testing and training data sample into ratio of 80:20.
 >>Sample data is included in the repo.
 
