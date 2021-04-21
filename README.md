@@ -9,7 +9,7 @@ It is a python based program which analyzes the data of last n days to predict t
 >>Test_train_split is used to split the database into the testing and training data sample into ratio of 80:20.
 >>Sample data is included in the repo.
 
-This model can be modified to predict crypto of multiple days too. A graphical representation of the same can also be coded through Python Library MatplotlLib.
+This model can be modified to predict crypto of multiple days too. A graphical representation of the same coded through Python Library MatplotlLib is under development. So star this repo and follow me on github for furthur updates.
 
 Accuracy of the model with current data is 0.96 which is around 96% and at price difference of 0.002$.
 
